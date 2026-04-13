@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Pneumonia Detection System",
+    "desc": "End-to-end deep learning pipeline detecting pneumonia in pediatric chest X-rays. 99% Recall. Deployed as a FastAPI microservice with React frontend.",
+    "tech": ["PyTorch", "FastAPI", "React", "Transfer Learning"],
+    "live": "https://xray-pneumonia.netlify.app/",
+    "github": "https://github.com/muhammadsaad-dev"
+  },
+  {
+    "name": "Autonomous AI Research Agent",
+    "desc": "Multi-agent LLM system that autonomously conducts web research and synthesizes structured reports. Built with LangGraph and LangChain.",
+    "tech": ["Python", "LangGraph", "LangChain", "Pydantic"],
+    "github": "https://github.com/muhammadsaad-dev/autonomous-researcher"
+  },
+  {
+    "name": "Job Listing Platform",
+    "desc": "Performant job board with full CRUD functionality, TypeScript type safety, REST API integration, and responsive Tailwind UI. Live on Netlify.",
+    "tech": ["React", "TypeScript", "Tailwind", "Vite"],
+    "live": "https://react-jobs-appl.netlify.app/",
+    "github": "https://github.com/muhammadsaad-dev/react-jobs-project"
+  },
+  {
+  "name": "Movie Discovery App",
+  "desc": "A dynamic web application for exploring and searching for movies, fetching real-time data and details from a third-party cinematic REST API.",
+  "tech": ["React", "JavaScript", "REST API", "CSS"],
+  "live": "https://mymoviesapp765765.netlify.app/",
+  "github": "https://github.com/muhammadsaad-dev/movie-app"
+},
+  {
+    "name": "Student Performance Classifier",
+    "desc": "End-to-end ML pipeline with feature engineering, SQL data ingestion, and logistic regression model training. Full lifecycle from raw data to evaluation.",
+    "tech": ["Python", "Scikit-learn", "Pandas", "SQL"],
+    "github": "https://github.com/muhammadsaad-dev/grade-passfail-classifier"
+  },
+  {
+    "name": "Interactive Quiz App",
+    "desc": "Dynamic quiz application with React Context API for global state, third-party API integration for randomized questions, and live Netlify deployment.",
+    "tech": ["React", "Context API", "REST API", "JavaScript"],
+    "live": "https://quiz-app1112.netlify.app/",
+    "github": "https://github.com/muhammadsaad-dev/quiz-app"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "period": "Aug 2024 – Oct 2024",
+    "role": "Backend Developer Intern",
+    "company": "Dr. Coders — Lahore, Pakistan",
+    "responsibilities": [
+      "Developed and optimized production RESTful APIs in Python, enabling reliable data flow between server and client applications.",
+      "Engineered complex SQL queries to maintain data integrity and improve database retrieval performance.",
+      "Collaborated with frontend developers in an Agile team, participating in code reviews and debugging server-side issues.",
+      "Followed SDLC best practices and maintained clean, well-documented backend architecture."
+    ]
+  }
+]

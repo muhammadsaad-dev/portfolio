@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Frontend",
+    "items": [
+      { "name": "React.js", "hot": true },
+      { "name": "TypeScript", "hot": true },
+      { "name": "JavaScript" },
+      { "name": "HTML5" },
+      { "name": "CSS3" },
+      { "name": "Tailwind CSS" },
+      { "name": "Vite" },
+      { "name": "Context API" }
+    ]
+  },
+  {
+    "title": "Backend",
+    "items": [
+      { "name": "Node.js", "hot": true },
+      { "name": "Python", "hot": true },
+      { "name": "FastAPI", "hot": true },
+      { "name": "Express.js" },
+      { "name": "Nest.js" },
+      { "name": "REST APIs" }
+    ]
+  },
+  {
+    "title": "Databases",
+    "items": [
+      { "name": "MongoDB", "hot": true },
+      { "name": "MySQL", "hot": true },
+      { "name": "PostgreSQL" },
+      { "name": "NoSQL" },
+      { "name": "SQL" }
+    ]
+  },
+  {
+    "title": "AI & ML",
+    "items": [
+      { "name": "LangChain", "hot": true },
+      { "name": "LangGraph", "hot": true },
+      { "name": "PyTorch", "hot": true },
+      { "name": "Transformers" },
+      { "name": "RAG" },
+      { "name": "Scikit-learn" },
+      { "name": "NLP" },
+      { "name": "Pydantic" }
+    ]
+  },
+  {
+    "title": "DevOps & Tools",
+    "items": [
+      { "name": "Git / GitHub", "hot": true },
+      { "name": "Vercel" },
+      { "name": "Netlify" },
+      { "name": "Postman" },
+      { "name": "VS Code" },
+      { "name": "GitHub Copilot" },
+      { "name": "Cursor" }
+    ]
+  },
+  {
+    "title": "CS Fundamentals",
+    "items": [
+      { "name": "OOP" },
+      { "name": "DSA" },
+      { "name": "Design Patterns" },
+      { "name": "SDLC" },
+      { "name": "Agile" },
+      { "name": "Microservices" }
+    ]
+  }
+]
