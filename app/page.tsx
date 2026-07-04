@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import Link from "next/link";
 
 export default function Home() {
   return (
@@ -9,11 +9,14 @@ export default function Home() {
           Open to opportunities
         </div>
         <h1>
-          Muhammad Saad<br />
+          Muhammad Saad
+          <br />
           <span>Software Engineer</span>
         </h1>
         <p className="hero-desc">
-          Final-year CS student at GCU Lahore. I build full-stack web apps, backend APIs, and AI-powered systems — from MERN stack applications to deployed deep learning pipelines and autonomous LLM agents.
+          CS Grad 2026. I build full-stack web apps, backend APIs, and
+          AI-powered systems — from MERN stack applications to deployed deep
+          learning pipelines and autonomous LLM agents.
         </p>
         <div className="hero-actions">
           <Link href="/projects" className="btn-primary">
