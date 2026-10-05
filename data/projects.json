@@ -1,42 +1,30 @@
 [
   {
-    "name": "Pneumonia Detection System",
-    "desc": "End-to-end deep learning pipeline detecting pneumonia in pediatric chest X-rays. 99% Recall. Deployed as a FastAPI microservice with React frontend.",
-    "tech": ["PyTorch", "FastAPI", "React", "Transfer Learning"],
-    "live": "https://xray-pneumonia.netlify.app/",
-    "github": "https://github.com/muhammadsaad-dev"
+    "name": "PulseGear — Full-Stack E-Commerce",
+    "desc": "Enterprise e-commerce engine with atomic inventory locking, Stripe PaymentIntents & webhooks, JWT auth, OpenAPI docs, Redux store, and a modern Tailwind UI. Deployed on Render with Docker & PostgreSQL.",
+    "tech": ["Django REST Framework", "React", "Redux", "Tailwind CSS", "Vite", "Stripe", "PostgreSQL", "Docker"],
+    "live": "https://pulsegear.onrender.com/",
+    "github": "https://github.com/muhammadsaad-dev/PulseGear"
   },
   {
-    "name": "Autonomous AI Research Agent",
-    "desc": "Multi-agent LLM system that autonomously conducts web research and synthesizes structured reports. Built with LangGraph and LangChain.",
-    "tech": ["Python", "LangGraph", "LangChain", "Pydantic"],
-    "github": "https://github.com/muhammadsaad-dev/autonomous-researcher"
+    "name": "DevMetrics",
+    "desc": "Engineering productivity dashboard that aggregates GitHub analytics—commit trends, PR cycle times, top repositories, and an automated productivity score—via OAuth 2.0 and GraphQL, with server-side caching to manage API rate limits.",
+    "tech": ["React", "Node.js", "Express", "Tailwind", "Recharts"],
+    "live": "https://dev-metrics-ruddy.vercel.app/",
+    "github": "https://github.com/muhammadsaad-dev/DevMetrics"
   },
   {
-    "name": "Job Listing Platform",
-    "desc": "Performant job board with full CRUD functionality, TypeScript type safety, REST API integration, and responsive Tailwind UI. Live on Netlify.",
-    "tech": ["React", "TypeScript", "Tailwind", "Vite"],
-    "live": "https://react-jobs-appl.netlify.app/",
-    "github": "https://github.com/muhammadsaad-dev/react-jobs-project"
+    "name": "JobTracker Pro",
+    "desc": "Full-stack application tracker featuring an interactive 5-stage Kanban board, real-time conversion analytics, JWT authentication, search & filters, and automated Vitest test suites. Deployed on Render with MongoDB Atlas.",
+    "tech": ["React", "TypeScript", "Node.js", "Express", "MongoDB", "Tailwind", "Docker"],
+    "live": "https://jobtracker-web-chha.onrender.com/",
+    "github": "https://github.com/muhammadsaad-dev/jobtracker"
   },
   {
-  "name": "Movie Discovery App",
-  "desc": "A dynamic web application for exploring and searching for movies, fetching real-time data and details from a third-party cinematic REST API.",
-  "tech": ["React", "JavaScript", "REST API", "CSS"],
-  "live": "https://mymoviesapp765765.netlify.app/",
-  "github": "https://github.com/muhammadsaad-dev/movie-app"
-},
-  {
-    "name": "Student Performance Classifier",
-    "desc": "End-to-end ML pipeline with feature engineering, SQL data ingestion, and logistic regression model training. Full lifecycle from raw data to evaluation.",
-    "tech": ["Python", "Scikit-learn", "Pandas", "SQL"],
-    "github": "https://github.com/muhammadsaad-dev/grade-passfail-classifier"
-  },
-  {
-    "name": "Interactive Quiz App",
-    "desc": "Dynamic quiz application with React Context API for global state, third-party API integration for randomized questions, and live Netlify deployment.",
-    "tech": ["React", "Context API", "REST API", "JavaScript"],
-    "live": "https://quiz-app1112.netlify.app/",
-    "github": "https://github.com/muhammadsaad-dev/quiz-app"
+    "name": "Recipe Finder & Meal Planner",
+    "desc": "Modern culinary platform featuring dual-mode recipe search, fridge ingredient matcher, interactive cook mode with kitchen timer, dynamic servings scaler, and smart grocery list. Powered by Angular 20 Signals and secure Vercel Serverless API proxy.",
+    "tech": ["Angular 20", "TypeScript", "Signals", "Spoonacular API", "Vercel Serverless", "CSS Grid"],
+    "live": "https://recipe-finder-az2w.vercel.app/",
+    "github": "https://github.com/muhammadsaad-dev/recipe-finder"
   }
 ]

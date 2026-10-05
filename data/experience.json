@@ -1,5 +1,16 @@
 [
   {
+    "period": "Nov 2024 – Present",
+    "role": "Associate Software Engineer",
+    "company": "Axiom World",
+    "responsibilities": [
+      "Engineered and maintained robust RESTful APIs and backend services using Python and SQL databases.",
+      "Designed and optimized PostgreSQL database schemas, writing complex queries to improve data processing and performance.",
+      "Collaborated using Git and GitHub for version control, code reviews, and continuous delivery.",
+      "Worked closely with cross-functional teams to integrate APIs, manage databases, and implement scalable software solutions."
+    ]
+  },
+  {
     "period": "Aug 2024 – Oct 2024",
     "role": "Backend Developer Intern",
     "company": "Dr. Coders — Lahore, Pakistan",

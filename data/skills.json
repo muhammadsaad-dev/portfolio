@@ -4,58 +4,59 @@
     "items": [
       { "name": "React.js", "hot": true },
       { "name": "TypeScript", "hot": true },
+      { "name": "Angular", "hot": true },
       { "name": "JavaScript" },
-      { "name": "HTML5" },
-      { "name": "CSS3" },
       { "name": "Tailwind CSS" },
+      { "name": "Redux" },
       { "name": "Vite" },
-      { "name": "Context API" }
+      { "name": "HTML5 / CSS3" }
     ]
   },
   {
     "title": "Backend",
     "items": [
-      { "name": "Node.js", "hot": true },
       { "name": "Python", "hot": true },
+      { "name": "Node.js", "hot": true },
+      { "name": "Django / DRF", "hot": true },
       { "name": "FastAPI", "hot": true },
       { "name": "Express.js" },
-      { "name": "Nest.js" },
-      { "name": "REST APIs" }
+      { "name": "REST APIs", "hot": true },
+      { "name": "GraphQL" }
     ]
   },
   {
     "title": "Databases",
     "items": [
+      { "name": "PostgreSQL", "hot": true },
+      { "name": "SQL", "hot": true },
       { "name": "MongoDB", "hot": true },
       { "name": "MySQL", "hot": true },
-      { "name": "PostgreSQL" },
-      { "name": "NoSQL" },
-      { "name": "SQL" }
+      { "name": "NoSQL" }
     ]
   },
   {
     "title": "AI & ML",
     "items": [
-      { "name": "LangChain", "hot": true },
-      { "name": "LangGraph", "hot": true },
       { "name": "PyTorch", "hot": true },
-      { "name": "Transformers" },
-      { "name": "RAG" },
+      { "name": "Hugging Face / BERT", "hot": true },
+      { "name": "spaCy", "hot": true },
+      { "name": "LangChain", "hot": true },
+      { "name": "LangGraph" },
+      { "name": "Gensim / Word2Vec" },
+      { "name": "NLP", "hot": true },
       { "name": "Scikit-learn" },
-      { "name": "NLP" },
-      { "name": "Pydantic" }
+      { "name": "RAG" }
     ]
   },
   {
     "title": "DevOps & Tools",
     "items": [
       { "name": "Git / GitHub", "hot": true },
+      { "name": "Docker", "hot": true },
       { "name": "Vercel" },
-      { "name": "Netlify" },
+      { "name": "Render" },
       { "name": "Postman" },
-      { "name": "VS Code" },
-      { "name": "GitHub Copilot" },
-      { "name": "Cursor" }
+      { "name": "VS Code" }
     ]
   },
   {

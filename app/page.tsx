@@ -14,9 +14,9 @@ export default function Home() {
           <span>Software Engineer</span>
         </h1>
         <p className="hero-desc">
-          CS Grad 2026. I build full-stack web apps, backend APIs, and
-          AI-powered systems — from MERN stack applications to deployed deep
-          learning pipelines and autonomous LLM agents.
+          Associate Software Engineer at Axiom World &amp; CS Graduate. I build
+          backend APIs, scalable databases, and full-stack systems — working with
+          Python, PostgreSQL, SQL, and modern AI/web technologies.
         </p>
         <div className="hero-actions">
           <Link href="/projects" className="btn-primary">
@@ -28,20 +28,20 @@ export default function Home() {
         </div>
         <div className="hero-stats">
           <div>
-            <div className="stat-num">6+</div>
+            <div className="stat-num">4+</div>
             <div className="stat-label">Live Projects</div>
           </div>
           <div>
-            <div className="stat-num">1</div>
-            <div className="stat-label">Year Experience</div>
+            <div className="stat-num">Axiom</div>
+            <div className="stat-label">Software Engineer</div>
           </div>
           <div>
             <div className="stat-num">5+</div>
             <div className="stat-label">Tech Stacks</div>
           </div>
           <div>
-            <div className="stat-num">2026</div>
-            <div className="stat-label">Graduating</div>
+            <div className="stat-num">BS CS</div>
+            <div className="stat-label">Graduated</div>
           </div>
         </div>
       </div>
