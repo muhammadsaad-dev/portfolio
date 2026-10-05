@@ -14,6 +14,13 @@
     "github": "https://github.com/muhammadsaad-dev/DevMetrics"
   },
   {
+    "name": "Pneumonia Detection System",
+    "desc": "End-to-end deep learning pipeline detecting pneumonia in pediatric chest X-rays with 99% Recall. Deployed as a FastAPI microservice with interactive React frontend for real-time inference.",
+    "tech": ["PyTorch", "FastAPI", "Python", "React", "Transfer Learning", "Computer Vision"],
+    "live": "https://xray-pneumonia.netlify.app/",
+    "github": "https://github.com/muhammadsaad-dev/pneumonia-api"
+  },
+  {
     "name": "JobTracker Pro",
     "desc": "Full-stack application tracker featuring an interactive 5-stage Kanban board, real-time conversion analytics, JWT authentication, search & filters, and automated Vitest test suites. Deployed on Render with MongoDB Atlas.",
     "tech": ["React", "TypeScript", "Node.js", "Express", "MongoDB", "Tailwind", "Docker"],
