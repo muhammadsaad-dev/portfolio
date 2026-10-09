@@ -7,6 +7,12 @@
     "github": "https://github.com/muhammadsaad-dev/PulseGear"
   },
   {
+    "name": "Autonomous AI Research Agent",
+    "desc": "Multi-agent LLM workflow that autonomously plans, searches the web, verifies sources, and synthesizes structured markdown research reports with citational integrity using LangGraph state machines.",
+    "tech": ["Python", "LangGraph", "LangChain", "LLMs", "Pydantic", "Tavily API"],
+    "github": "https://github.com/muhammadsaad-dev/autonomous-researcher"
+  },
+  {
     "name": "DevMetrics",
     "desc": "Engineering productivity dashboard that aggregates GitHub analytics—commit trends, PR cycle times, top repositories, and an automated productivity score—via OAuth 2.0 and GraphQL, with server-side caching to manage API rate limits.",
     "tech": ["React", "Node.js", "Express", "Tailwind", "Recharts"],

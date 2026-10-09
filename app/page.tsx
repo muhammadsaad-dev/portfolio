@@ -28,7 +28,7 @@ export default function Home() {
         </div>
         <div className="hero-stats">
           <div>
-            <div className="stat-num">5+</div>
+            <div className="stat-num">6+</div>
             <div className="stat-label">Live Projects</div>
           </div>
           <div>
